@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "editor.colorDecorators": true,
+    "editor.defaultColorDecorators": false,
+    "workbench.colorTheme": "Nord",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark"
+}
